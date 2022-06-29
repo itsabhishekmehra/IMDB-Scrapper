@@ -1,0 +1,17 @@
+{
+    "Name": "Mimi",
+    "Director": [
+        "Rajesh Bhatia",
+        "Laxman Utekar"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BZTkwMDQ4ZmEtNTdhNi00MmMzLTgwNTQtMDI1NDJjZjQ5Zjg5XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Runtime in Minutes": 132,
+    "Genre": [
+        "Comedy",
+        "Drama"
+    ]
+}

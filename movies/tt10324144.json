@@ -1,0 +1,18 @@
+{
+    "Name": "Article 15",
+    "Director": [
+        "Anubhav Sinha"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BZTI2NTFiMDMtZjQxNS00YjBkLWFhNWMtOTIyMzE5Yjc0ZTZiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Runtime in Minutes": 130,
+    "Genre": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Name": "Sholay",
+    "Director": [
+        "Ramesh Sippy"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BOWQ0YTUzYzItYjI0MC00OTZmLWE1MWQtY2EzMzU2MTlmMmJjXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_QL75_UY281_CR12,0,190,281_.jpg",
+    "Runtime in Minutes": 204,
+    "Genre": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Musical",
+        "Thriller",
+        "Western"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Vikram Vedha",
+    "Director": [
+        "Gayatri",
+        "Pushkar"
+    ],
+    "Country": "India",
+    "Language": [
+        "Tamil"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Runtime in Minutes": 147,
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ]
+}

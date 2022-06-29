@@ -1,0 +1,17 @@
+{
+    "Name": "My Name Is Khan",
+    "Director": [
+        "Karan Johar"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Runtime in Minutes": 165,
+    "Genre": [
+        "Drama",
+        "Romance"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Hey Ram",
+    "Director": [
+        "Kamal Haasan"
+    ],
+    "Country": "India",
+    "Language": [
+        "Tamil",
+        "Hindi"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BYzMxYzZjMDUtZjI3Ni00Y2M2LTllYWItNzJmZTJjMzkyYjlmXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Runtime in Minutes": 186,
+    "Genre": [
+        "Crime",
+        "Drama",
+        "History"
+    ]
+}

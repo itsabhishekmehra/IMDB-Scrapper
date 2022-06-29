@@ -1,0 +1,18 @@
+{
+    "Name": "Company",
+    "Director": [
+        "Ram Gopal Varma"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BMTQwMjFmMDItYzdjNC00NzFkLTg2MzctYzQ3ZmI0MWVlMDMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Runtime in Minutes": 142,
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ]
+}

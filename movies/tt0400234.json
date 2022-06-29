@@ -1,0 +1,19 @@
+{
+    "Name": "Black Friday",
+    "Director": [
+        "Anurag Kashyap"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BYWRjMDlmNGYtOGFhYy00ZWU4LTk3MzEtOTI4ZTgxN2Y5NGNkXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Runtime in Minutes": 143,
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama",
+        "History"
+    ]
+}

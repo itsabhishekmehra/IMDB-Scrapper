@@ -1,0 +1,17 @@
+{
+    "Name": "Dil Chahta Hai",
+    "Director": [
+        "Farhan Akhtar"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi"
+    ],
+    "Poster_Image_Url": "https://m.media-amazon.com/images/M/MV5BMjRjMTYwMTYtMmRkNi00MmVkLWE0MjQtNmM3YjI0NWFhZDNmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Runtime in Minutes": 183,
+    "Genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ]
+}
